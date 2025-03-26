@@ -57,7 +57,7 @@ Full Stack Developer in progress |  From Brazil, currently living in Uruguay
     title="Git"
     width="60px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-daniel-rivero-c&theme=radical&layout=compact&custom_title=Technologies&hide=prs" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <br/>
 <br/>
