@@ -69,5 +69,5 @@ Full Stack Developer in progress |  From Brazil, currently living in Uruguay
     align="left"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-daniel-rivero-c&theme=radical&layout=compact&custom_title=Technologies"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan13lrivero&theme=radical&layout=compact&custom_title=Technologies"
 />
