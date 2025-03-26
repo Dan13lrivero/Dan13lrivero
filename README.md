@@ -4,7 +4,7 @@
 
 Full Stack Developer in progress |  From Brazil, currently living in Uruguay
 
-👨‍💻 All of my projects are available at https://github.com/jorge-daniel-rivero-c
+👨‍💻 All of my projects are available at https://github.com/Dan13lrivero
 
 📫 How to reach me jorgedanielriveroc@gmail.com
 ---
