@@ -75,6 +75,15 @@ Full Stack Developer in progress |  From Brazil, currently living in Uruguay
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Express.js" 
+    title="Express.js"
+    width="60px" 
+    style="padding-right: 10px; background-color: white; border-radius: 8px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" 
+/>
+
 
 <br/>
 <br/>
