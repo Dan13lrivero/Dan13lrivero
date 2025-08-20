@@ -83,6 +83,30 @@ Full Stack Developer in progress |  From Brazil, currently living in Uruguay
     style="padding-right: 10px; background-color: white; border-radius: 8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" 
 />
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB"
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Socket.IO" 
+    title="Socket.IO"
+    width="60px" 
+    style="padding-right: 10px; background-color: white; border-radius: 8px;" 
+    src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" 
+/>
+<img 
+    align="left" 
+    alt="Handlebars" 
+    title="Handlebars"
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.worldvectorlogo.com/logos/handlebars-1.svg" 
+/>
 
 
 <br/>
