@@ -83,12 +83,12 @@ Full Stack Developer in progress | From Brazil, currently living in Uruguay
     <img src="https://skillicons.dev/icons?i=postman" width="60" height="60" alt="Postman" />
     <br>Postman
   </td>
+  <td align="center" width="96">
+    <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="60" height="60" alt="Firebase" />
+    <br>Firebase
+  </td>
 </tr>
-
 </table>
-
-
-
 
 <br/>
 <br/>
