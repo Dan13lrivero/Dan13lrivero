@@ -2,7 +2,7 @@
 
 # 👨‍💻 Hi, I'm Daniel Rivero
 
-**`Full Stack Developer in progress`**
+**`FrontEnd Dev | Full Stack in progress`**
 
 Full Stack Developer in progress | From Brazil, currently living in Uruguay
 
