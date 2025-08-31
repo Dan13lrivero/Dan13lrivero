@@ -1,123 +1,100 @@
+<div align="center">
+
 # 👨‍💻 Hi, I'm Daniel Rivero
 
 **`Full Stack Developer in progress`**
 
-Full Stack Developer in progress |  From Brazil, currently living in Uruguay
+Full Stack Developer in progress | From Brazil, currently living in Uruguay
 
-👨‍💻 All of my projects are available at https://github.com/Dan13lrivero
+👨‍💻 All of my projects are available at [GitHub](https://github.com/Dan13lrivero)
 
-📫 How to reach me jorgedanielriveroc@gmail.com
----
+📫 How to reach me: jorgedanielriveroc@gmail.com
 
-### 🔧 Languages and Tools
+</div>
+</br>
+</br>
+</br>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React" 
-    title="React"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Express.js" 
-    title="Express.js"
-    width="60px" 
-    style="padding-right: 10px; background-color: white; border-radius: 8px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Socket.IO" 
-    title="Socket.IO"
-    width="60px" 
-    style="padding-right: 10px; background-color: white; border-radius: 8px;" 
-    src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" 
-/>
-<img 
-    align="left" 
-    alt="Handlebars" 
-    title="Handlebars"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.worldvectorlogo.com/logos/handlebars-1.svg" 
-/>
+<h3 align="center">🔧 Languages and Tools</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="60" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="60" height="60" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="65" height="65" alt="Sass" />
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>GitHub
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96" style="background-color: white; border-radius: 8px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg" width="60" height="60" alt="Express" />
+      <br>Express.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96" style="background-color: white; border-radius: 8px;">
+      <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="60" height="60" alt="Socket.IO" />
+      <br>Socket.IO
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.worldvectorlogo.com/logos/handlebars-1.svg" width="60" height="60" alt="Handlebars" />
+      <br>Handlebars
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="60" height="60" alt="Postman" />
+      <br>Postman
+    </td>
+  </tr>
+</table>
+
+
 
 
 <br/>
 <br/>
 <br/>
-
+<div align="center">
 ### 📊 Statistics
 
 <img
-    align="left"
+    align="center"
     height="200"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan13lrivero&theme=radical&layout=compact&custom_title=Technologies"
 />
+</div>
