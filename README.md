@@ -54,6 +54,14 @@ Full Stack Developer in progress | From Brazil, currently living in Uruguay
     <br>React
   </td>
   <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="60" height="60" alt="Angular" />
+    <br>Angular
+  </td>
+  <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript" />
+    <br>TypeScript
+  </td>
+  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
     <br>NodeJS
   </td>
@@ -61,6 +69,8 @@ Full Stack Developer in progress | From Brazil, currently living in Uruguay
     <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
     <br>Express.js
   </td>
+</tr>
+<tr>
   <td align="center" width="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" />
     <br>MongoDB
@@ -69,8 +79,6 @@ Full Stack Developer in progress | From Brazil, currently living in Uruguay
     <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="60" height="60" alt="Socket.IO" />
     <br>Socket.IO
   </td>
-</tr>
-<tr>
   <td align="center" width="96">
     <img src="https://cdn.worldvectorlogo.com/logos/handlebars-1.svg" width="60" height="60" alt="Handlebars" />
     <br>Handlebars
