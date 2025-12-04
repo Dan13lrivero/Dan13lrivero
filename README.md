@@ -16,7 +16,7 @@ Full Stack Developer in progress | From Brazil, currently living in Uruguay
 </br>
 </br>
 
-<h3 align="center">🔧 Languages and Tools</h3>
+<h3 align="center"> Languages and Tools</h3>
 
 <table align="center">
  <tr>
