@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👨‍💻 Hi, I'm Daniel Rivero
+#  Hi, I'm Daniel Rivero
 
 **`FrontEnd Dev | Full Stack in progress`**
 
 Full Stack Developer in progress | From Brazil, currently living in Uruguay
 
-👨‍💻 All of my projects are available at [GitHub](https://github.com/Dan13lrivero)
+ All of my projects are available at [GitHub](https://github.com/Dan13lrivero)
 
-📫 How to reach me: **jorgedanielriveroc@gmail.com**
+ How to reach me: **jorgedanielriveroc@gmail.com**
 
 </div>
 
@@ -119,7 +119,7 @@ Full Stack Developer in progress | From Brazil, currently living in Uruguay
 
 <div align="center">
 
-### 📊 Statistics
+###  Statistics
 
 <img
     align="center"
