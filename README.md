@@ -2,9 +2,9 @@
 
 #  Hi, I'm Daniel Rivero
 
-**`FrontEnd Dev | Full Stack in progress`**
+**`Full Stack Dev | MERN/MEAN`**
 
-Full Stack Developer in progress | From Brazil, currently living in Uruguay
+Full Stack Developer | From Brazil, currently living in Uruguay
 
  All of my projects are available at [GitHub](https://github.com/Dan13lrivero)
 
